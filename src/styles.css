@@ -35,7 +35,7 @@ li {
   border-radius: 8px;
 }
 
-.imcomplete-area {
+.incomplete-area {
   background-color: #c6ffe2;
   width: 400px;
   min-height: 200px;
@@ -61,7 +61,7 @@ li {
 }
 
 .list-row {
-  display: flex;
+  display: inline;
   align-items: center;
   padding-bottom: 4px;
 }
